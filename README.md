@@ -11,11 +11,11 @@
 
 - **Goals of sales analytics:**
 
-Optimizing sales strategies, improving performance, and increasing revenue by analyzing data to understand customer behavior, forecast trends, and refine sales processes effectively.
+ **1.** Optimizing sales strategies, improving performance, and increasing revenue by analyzing data to understand customer behavior, forecast trends, and refine sales processes effectively.
 
-Identifying sales patterns, forecast trends and track key performance indicators (KPIs).
+ **2.** Identifying sales patterns, forecast trends and track key performance indicators (KPIs).
 
-Understanding customer preferences, improving decision-making, and maximizing revenue by identifying trends, patterns, and opportunities within the market.
+ **3.** Understanding customer preferences, improving decision-making, and maximizing revenue by identifying trends, patterns, and opportunities within the market.
 
 ## Finance Report :
 
@@ -30,11 +30,11 @@ Understanding customer preferences, improving decision-making, and maximizing re
 
 - **Goals of Financial analytics:**
 
-Analyzing financial data to enhance decision-making, optimizing resource allocation, and improving overall financial performance by identifying trends and risks.
+ **1.** Analyzing financial data to enhance decision-making, optimizing resource allocation, and improving overall financial performance by identifying trends and risks.
 
-Ensuring financial health, making informed strategic decisions, and achieving long-term sustainability that impact profitability and growth.
+ **2.** Ensuring financial health, making informed strategic decisions, and achieving long-term sustainability that impact profitability and growth.
 
-Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+ **3.** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
 
 ## Technical & Soft Skills:
