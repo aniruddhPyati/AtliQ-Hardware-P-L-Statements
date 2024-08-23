@@ -9,28 +9,24 @@
 
     **2.** A comprehensive comparison between _[market performance and sales targets](https://github.com/aniruddhPyati/AtliQ-Hardware-P-L-Statements/blob/main/AtliQ-Market%20Performance.pdf)_
 
-- **Purpose of sales analytics:** It aims to optimize sales strategies, improve performance, and increase revenue by analyzing data to understand customer behavior, forecast trends, and refine sales processes effectively.
-
-- **Importance of analyzing sales data:** Identify sales patterns, forecast trends and track key performance indicators (KPIs).
-
-- **Role of reports:** It is crucial for understanding customer preferences, improving decision-making, and maximizing revenue by identifying trends, patterns, and opportunities within the market.
+- **Goals of sales analytics:** Optimizing sales strategies, improving performance, and increasing revenue by analyzing data to understand customer behavior, forecast trends, and refine sales processes effectively.
+Identifying sales patterns, forecast trends and track key performance indicators (KPIs).
+Understanding customer preferences, improving decision-making, and maximizing revenue by identifying trends, patterns, and opportunities within the market.
 
 ## Finance Report :
 
 - **Important Entities:** 
 
-    **1.** Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/ShridattaP20/Excel-AtliQ-Hardware-s/blob/main/AtliQ-P%26L%20by%20fiscal%20year.pdf)_
-                                                & _[Quaters/Months](https://github.com/ShridattaP20/Excel-AtliQ-Hardware-s/blob/main/AtliQ-P%26L%20by%20quaters.pdf)_ 
+    **1.** Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/aniruddhPyati/AtliQ-Hardware-P-L-Statements/blob/main/AtliQ-P%26L%20by%20fiscal%20year.pdf)_
+                                                & _[Quaters/Months](https://github.com/aniruddhPyati/AtliQ-Hardware-P-L-Statements/blob/main/AtliQ-P%26L%20by%20quaters.pdf)_ 
 
-   **2.** Profit and Loss (P&L) reports by _[Markets](https://github.com/ShridattaP20/Excel-AtliQ-Hardware-s/blob/main/AtliQ-P%26L%20for%20markets.pdf)_
+   **2.** Profit and Loss (P&L) reports by _[Markets](https://github.com/aniruddhPyati/AtliQ-Hardware-P-L-Statements/blob/main/AtliQ-P%26L%20for%20markets.pdf)_
 
-   **3.** Gross Margin % reports by _[Sub-Zones](https://github.com/ShridattaP20/Excel-AtliQ-Hardware-s/blob/main/AtliQ-GM%25%20by%20subzones.pdf)_
+   **3.** Gross Margin % reports by _[Sub-Zones](https://github.com/aniruddhPyati/AtliQ-Hardware-P-L-Statements/blob/main/AtliQ-GM%25%20by%20subzones.pdf)_
 
-- **Purpose of Financial analytics:** It aims to analyze financial data to enhance decision-making, optimize resource allocation, and improve overall financial performance by identifying trends and risks.
-
-- **Importance of analyzing Finance data:** Analyzing finance data is essential for ensuring financial health, making informed strategic decisions, and achieving long-term sustainability that impact profitability and growth.
-  
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+- **Goals of Financial analytics:** Analyzing financial data to enhance decision-making, optimizing resource allocation, and improving overall financial performance by identifying trends and risks.
+Ensuring financial health, making informed strategic decisions, and achieving long-term sustainability that impact profitability and growth.
+Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
 
 ## Technical & Soft Skills:
